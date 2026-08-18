@@ -2,7 +2,7 @@ Me contacter via owoxa.com
 
 Plugin en CC-0 - vibe coding avec Grok.
 
-Current version > V3.1
+Current version > V3.2
 
 Version V3.1
 - Masquage du menu déroulant « Rôle » natif de WordPress sur la page d’édition d’un utilisateur
